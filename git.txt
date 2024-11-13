@@ -122,3 +122,10 @@ branch 'main' set up to track 'origin/main'.
 Admin@DESKTOP-3HTS0AA MINGW64 ~/Desktop/mastering-git (main)       
 $
 
+In short, the main things to look for is 
+
+
+git add .
+git commit -m "Describe your changes"
+git push
+
